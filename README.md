@@ -1,3 +1,5 @@
+![Alt text](Hdws.png)
+----
 # Dynamic Website Deployment on AWS – DevOps Project
 
 This repository contains the architecture diagram, deployment scripts, and database migration tools for hosting a dynamic website on AWS using a secure, scalable, and fault-tolerant infrastructure.
